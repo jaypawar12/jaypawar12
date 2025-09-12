@@ -22,7 +22,7 @@
 
 I'm a passionate developer focused on **MERN Stack Development** and backend engineering.
 
-- 🚀 Building robust and scalable web apps with **Node.js** & **MongoDB**
+- 🚀 Building robust and scalable web apps with **Node.js**, **React.js**, & **MongoDB**
 - 🛠️ Applying software engineering principles to real-world projects
 - 🌱 Constantly learning and contributing to open source
 
@@ -35,6 +35,7 @@ I'm a passionate developer focused on **MERN Stack Development** and backend eng
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
 
 ### ⚙️ Backend & DB
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -63,8 +64,8 @@ I'm a passionate developer focused on **MERN Stack Development** and backend eng
 
 - 🌱 **Currently learning:** React.js 
 - 🤝 **Collaborating on:** Open-source tools that help developers  
-- 🧠 **Interested in:** Backend architecture and monorepo setups  
-- 💬 **Ask me about:** HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB  
+- 🧠 **Interested in:** Backend architecture, React.js, and monorepo setups  
+- 💬 **Ask me about:** HTML, CSS, Bootstrap, JavaScript, Node.js, React.js, MongoDB  
 - 📫 **Reach me at:** [Email](mailto:pawarjay684@gmail.com) | [LinkedIn](https://www.linkedin.com/in/jay-pawar-6558762b2/)  
 - ⚡ **Fun fact:** I can solve a Rubik’s Cube in under 2 minutes — want to race?
 
