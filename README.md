@@ -61,7 +61,7 @@ I'm a passionate developer focused on **MERN Stack Development** and backend eng
 
 ## 👨‍💻 About Me
 
-- 🌱 **Currently learning:** Node.js, Express.js, MongoDB  
+- 🌱 **Currently learning:** React.js 
 - 🤝 **Collaborating on:** Open-source tools that help developers  
 - 🧠 **Interested in:** Backend architecture and monorepo setups  
 - 💬 **Ask me about:** HTML, CSS, Bootstrap, JavaScript, Node.js, MongoDB  
