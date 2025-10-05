@@ -49,7 +49,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=fff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff)
 
 ### 🧰 Other Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
