@@ -72,7 +72,7 @@
 ## 🏆 Achievements
 
 - JavaScript Practical Exam Project: CRUD, filtering, sorting, pagination
-- Multiple full-stack projects for college assignments & professional practice
+- Multiple full-stack projects for professional practice
 - GitHub repositories with complete codebases for real-world apps
 
 ---
