@@ -13,8 +13,11 @@
   <a href="mailto:pawarjay684@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-lightgrey?style=flat-square" />
+  <a href="https://drive.google.com/drive/folders/1FFiBRF35IC0m2qO3GKHk4MLpucZiVQtC" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-00C853?style=flat-square&logo=googledrive&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
